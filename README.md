@@ -2,6 +2,13 @@
 
 This is a mini e-commerce application iv'e built for a school assignment using Rails 4.2
 
+# Pictures 
+
+![jungle1](https://user-images.githubusercontent.com/53335999/71031922-5b9dfe00-20e2-11ea-9260-526273dfa933.png)
+![jungle2](https://user-images.githubusercontent.com/53335999/71031933-5e98ee80-20e2-11ea-9d62-22b13f8528c9.png)
+![jungle3](https://user-images.githubusercontent.com/53335999/71031940-6062b200-20e2-11ea-8270-437edcca41ad.png)
+
+
 ## Setup
 
 1. Run `bundle install` to install dependencies
