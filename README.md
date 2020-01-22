@@ -1,6 +1,7 @@
 # Jungle
 
-This is a mini e-commerce application iv'e built for a school assignment using Rails 4.2
+Jungle is a mini e-commerce application done using Rails 4.2, it features a product and cart page with a active Stripe API for payment. It also features a commerce owner page where you can manage your item inventory.
+
 
 # Pictures 
 
